@@ -3,8 +3,8 @@
     background-color: red;
     padding: 20px;
     border-style: hidden;
-    
-    
+    margin: 0px;
+    width:2000px;
 }
 
 .row h2{
@@ -23,10 +23,10 @@
 
 .nav{
     width:500px;
-    height:87px; 
+    height:100px; 
     padding:60px;
-    margin: 13px;
-    padding:10px;
+    margin: 0px;
+    
     text-align: right;
     
     color: white;  
@@ -36,22 +36,31 @@
     display:inline;
     position:static;
     width:100px;
-    margin: auto;    
+    margin: 20px;;    
     padding:20px;
     font-size:30px;
+    
     
         
     
 }
 
-.row  a:hover{
-    background-color: red;
-    color:white;
+ p:hover{
+    background-color: white;
+    color:red;
+    
     
 }
 
 
 .jumbotron{
+    margin:0px;
     height:500px;
+    display: inline;
+    width:500px;
 }
 
+.jumbotron .col-md-12{
+    padding: 0px;
+    
+}
