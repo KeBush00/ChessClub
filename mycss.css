@@ -1,1 +1,57 @@
+.row{
+    display:block;
+    background-color: red;
+    padding: 20px;
+    border-style: hidden;
+    
+    
+}
+
+.row h2{
+    
+    background-color: red;
+    color:white;
+    width:500px;
+    height:100px; 
+    padding:30px;
+    margin:0px;
+    font-family: 'Teko', sans-serif;
+    font-size: 80px;
+        
+    
+}
+
+.nav{
+    width:500px;
+    height:87px; 
+    padding:60px;
+    margin: 13px;
+    padding:10px;
+    text-align: right;
+    
+    color: white;  
+}
+
+.nav p{
+    display:inline;
+    position:static;
+    width:100px;
+    margin: auto;    
+    padding:20px;
+    font-size:30px;
+    
+        
+    
+}
+
+.row  a:hover{
+    background-color: red;
+    color:white;
+    
+}
+
+
+.jumbotron{
+    height:500px;
+}
 
