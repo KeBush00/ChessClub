@@ -3,8 +3,8 @@
     background-color: red;
     padding: 20px;
     border-style: hidden;
-    
-    
+    margin: 0px;
+    width:2000px;
 }
 
 .row h2{
@@ -23,48 +23,45 @@
 
 .nav{
     width:500px;
-    height:87px; 
+    height:100px; 
     padding:60px;
-    margin: 13px;
-    padding:10px;
+    margin: 0px;
+    
     text-align: right;
     
     color: white;  
 }
 
-.nav p{
+.nav a{
     display:inline;
     position:static;
     width:100px;
-    margin: auto;    
+    margin: 20px;;    
     padding:20px;
     font-size:30px;
+    color: white;
     
         
     
 }
 
-.row  a:hover{
-    background-color: red;
-    color:white;
+ a:hover{
+    background-color: white;
+    color:red !Important;
+    text-decoration: none !Important;
+    
     
 }
 
 
 .jumbotron{
+    margin:0px;
     height:500px;
-    padding:0px;
-    margin-bottom: 0px !important;
-    background-color: white  !important;
+    display: inline;
+    width:500px;
 }
 
-.container .col-sm-12{
+.jumbotron .col-md-12{
     padding: 0px;
     
-    
-}
-
-.content{
-    text-align: center;
-        
 }
