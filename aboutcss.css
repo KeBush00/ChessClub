@@ -6,7 +6,7 @@ body,html{
 
 .col-sm-12 > .row{
     display:block;
-    background-color: #FF1400;
+    background-color: #A39996;
     padding: 20px;
     
     
@@ -14,7 +14,7 @@ body,html{
 
 .row h2{
     
-    background-color: #FF1400;
+    background-color: #A39996;
     color:white;
     width:20%;
     height:100px; 
@@ -53,7 +53,7 @@ body,html{
 
 a:hover{
     background-color: white;
-    color:red !Important;
+    color:#A39996 !Important;
     text-decoration: none !Important;
     font-family: 'Teko', sans-serif;
     
@@ -64,7 +64,7 @@ a:hover{
     height:100%;
     padding:0px;
     margin-bottom: 0px !important;
-    background-color: #FF1400  !important;
+    background-color: #EB1405 !important;
     color: white;
     
     width:100%;
@@ -86,7 +86,7 @@ a:hover{
     display: block;
     margin-left : auto !important;
     margin-right: auto !important;
-    
+    padding: ;
     margin-bottom:0px !important;
 }
 
